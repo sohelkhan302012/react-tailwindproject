@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sohelkhan302012/react-tailwindproject.git/static/css/main.cd7502d0.css",
+    "main.js": "/sohelkhan302012/react-tailwindproject.git/static/js/main.a025bdf8.js",
+    "index.html": "/sohelkhan302012/react-tailwindproject.git/index.html",
+    "main.cd7502d0.css.map": "/sohelkhan302012/react-tailwindproject.git/static/css/main.cd7502d0.css.map",
+    "main.a025bdf8.js.map": "/sohelkhan302012/react-tailwindproject.git/static/js/main.a025bdf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7502d0.css",
+    "static/js/main.a025bdf8.js"
+  ]
+}
