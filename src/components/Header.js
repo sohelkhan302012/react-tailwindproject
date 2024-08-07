@@ -1,4 +1,5 @@
 import React from "react";
+// import { Link } from "react-router-dom"
 // import { useState } from "react";
 // import logo from '../images/favicon.png';
 // import logo from "../images/logo.svg"
@@ -86,8 +87,7 @@ function Header(){
               <a
                 href="/"
                 className="inline-block text-[#BBBBCB] hover:text-white text-base font-medium py-3"
-                >Home</a
-              >
+                >Home</a>
             </li>
             <li>
               <a
@@ -100,36 +100,31 @@ function Header(){
               <a
                 href="#"
                 className="inline-block text-[#BBBBCB] hover:text-white text-base font-medium py-3"
-                >Features</a
-              >
+                >Features</a>
             </li>
             <li>
               <a
                 href="/Contact"
                 className="inline-block text-[#BBBBCB] hover:text-white text-base font-medium py-3"
-                >contact</a
-              >
+                >contact</a>
             </li>
             <li>
               <a
                 href="#"
                 className="inline-block text-[#BBBBCB] hover:text-white text-base font-medium py-3"
-                >FAQ</a
-              >
+                >FAQ</a>
             </li>
             <li>
               <a
                 href="#"
                 className="inline-block text-[#BBBBCB] hover:text-white text-base font-medium py-3"
-                >Blog</a
-              >
+                >Blog</a>
             </li>
             <li>
               <a
-                href="#"
+                href="/Login"
                 className="inline-block text-white border-2 border-[#f4f6fc33] border-solid rounded-[41px] px-12 py-4 hover:bg-white hover:text-black text-base font-medium my-3 lg:my-0"
-                >Contact us</a
-              >
+                >Login</a>
             </li>
           </ul>
         </nav>
